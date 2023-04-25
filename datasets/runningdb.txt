@@ -1,0 +1,6 @@
+1. Instal SQLite (already pre-installed on MacOS)
+2. Run the following command in the datasets directory to open db: 
+
+	sqlite3 diabetes.db
+
+3. Now you can run queries on the db
