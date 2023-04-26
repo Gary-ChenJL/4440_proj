@@ -4,3 +4,6 @@
 	sqlite3 diabetes.db
 
 3. Now you can run queries on the db
+4. Example query -> SELECT AVG(bmi) FROM patient_data WHERE diabetes = 1;
+
+patient_data and diabetes are the tables names
